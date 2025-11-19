@@ -4,7 +4,7 @@
 		"use_tls": false,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
-		"trusted_origins": ["https://briskvege.up.railway.app"]
+		"trusted_origins": ["http://briskvege.up.railway.app"]
 	},
 	"phish_server": {
 		"listen_url": "0.0.0.0:80",
