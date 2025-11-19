@@ -5,7 +5,7 @@
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
 		"trusted_origins": [
-		"https://briskvege.up.railway.app",
+		"https://briskvege.up.railway.app"
 		]
 	},
 	"phish_server": {
